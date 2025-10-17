@@ -31,7 +31,7 @@ This app allows users to easily create, edit, delete, and track tasks — perfec
 
 > 🧭 Live Demo:
 > https://bindupriya-code.github.io/Algonive_Task_Manager/
-> https:///C:/Users/teju6/OneDrive/Desktop/Algonive_task_manager/index.html
+
 
 
 (Replace the link above after you deploy the project on GitHub Pages.)
@@ -52,26 +52,7 @@ Version Control	Git & GitHub
 
 ---
 
-⚙ Installation & Setup
 
-Follow these steps to run the project locally:
-
-1. Clone this repository
-
-git clone https://github.com/yourusername/task-manager.git
-
-
-2. Navigate to the project directory
-
-cd task-manager
-
-
-3. Open the project
-
-Simply open the index.html file in your web browser
-(e.g., drag and drop into Chrome or use VS Code Live Server extension).
-
----
 
 📸 Screenshots
 
