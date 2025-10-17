@@ -34,9 +34,6 @@ This app allows users to easily create, edit, delete, and track tasks — perfec
 
 
 
-(Replace the link above after you deploy the project on GitHub Pages.)
-
-
 ---
 
 🧩 Tech Stack
