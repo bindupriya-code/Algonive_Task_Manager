@@ -60,10 +60,13 @@ Add Tasks	Manage Tasks
 
 	
 
+![Web Page](https://github.com/user-attachments/assets/b1741c8f-ad25-49bf-bc7e-c46fbef8be60)
 
 > (Add your own screenshots in a /screenshots folder and update the image paths above.)
 
 
+![Deleted Feature](https://github.com/user-attachments/assets/bfc9f72a-29fd-4d52-a7a4-b4be3f47bd97)
+![Edited feature](https://github.com/user-attachments/assets/a7b3c7ed-4051-451d-9fc3-c0cb5b1a29d2)
 
 
 ---
