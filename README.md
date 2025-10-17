@@ -30,7 +30,7 @@ This app allows users to easily create, edit, delete, and track tasks — perfec
 🖥 Demo
 
 > 🧭 Live Demo:
-https://yourusername.github.io/task-manager
+> https://bindupriya-code.github.io/Algonive_Task_Manager/
 
 
 
